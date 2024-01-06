@@ -1,0 +1,121 @@
+p {
+    margin-top: 0;
+    margin-bottom: -4.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(99, 98, 98);
+}
+
+.img1 {
+    width: 170px;
+    height: 60px;
+    margin-top: 10%;
+}
+
+.img2 {
+    width: -webkit-fill-available;
+    height: 200px;
+    margin-bottom: 1%;
+    border-bottom: black;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+/* heart color */
+
+
+.fa-heart {
+    color: red;
+}
+
+/* social media CSS */
+
+
+.fa-envelope {
+    color: red;
+}
+
+
+
+.fa-envelope:hover {
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    transform: scale(1.2);
+}
+
+.fa-linkedin {
+    color: #2ba6cb;
+
+}
+
+.fa-linkedin:hover {
+    color: #2ba6cb;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    transform: scale(1.2);
+}
+
+.fa-square-instagram {
+    background: -moz-linear-gradient(top, #e72c83 0%, #a742c6 100%);
+    background: -webkit-linear-gradient(top, #e72c83 0%, #a742c6 100%);
+    background: linear-gradient(to bottom, #e72c83 0%, #a742c6 100%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+
+.fa-square-instagram:hover {
+    color: #a742c6;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    transform: scale(1.2);
+}
+
+.fa-square-github {
+    color: rgb(62, 61, 61);
+}
+
+.fa-square-github:hover {
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    transform: scale(1.2);
+}
+
+/* For mobile phones: */
+@media only screen and (max-width: 720px) {
+
+    p {
+        margin-top: 0;
+        margin-bottom: 0rem;
+    }
+
+    .img1 {
+        margin-top: 2%;
+    }
+
+    .img2 {
+        height: 140px;
+
+    }
+}
+
+
+/* .box-bottom {
+    color: black;
+    border: 5px solid black;
+    margin: 0%;
+    padding: 0%;
+    border-radius: 20px 20px 0 0;
+
+} */

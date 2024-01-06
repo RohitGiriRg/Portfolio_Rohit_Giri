@@ -1,0 +1,79 @@
+ // let score = 0;
+    
+    // const handleSkills = (e) => {
+       
+    //     console.log(e.rohit);
+
+    // }
+
+    // window.addEventListener('scroll',()=>{
+    //     let rg = window.pageYOffset;
+    //     if( rg > 1800){
+
+
+    //         console.log(rg);
+    //     }
+    // })
+
+    // function onChangeHandler(){
+    //     let divPosition = getBoundingClientRect();
+    //     console.log(divPosition);
+    // }
+
+     // console.log(inputRef.current.getBoundingClientRect());
+    // console.log(currentScrollPosition.top);
+
+    // const handleScore = () => {
+    //      while( score < 89){
+    //         setScore(score+1);
+            
+    //     } 
+    // }
+
+     //   setInterval(() => {
+    //     console.log('eh');
+    //           clearInterval()
+    //   }, 1000);
+
+
+    //   const incremenTal = () => {
+    //     while( scores < 89){
+    //         scores++;
+    //         console.log(scores);
+    //     }     
+    //   }
+
+    //   const rohit = () =>{
+    //     score++;
+    //     console.log(score);
+    //   }
+    //     while( score < 89){
+
+    //        setInterval(rohit,1000)     
+           
+    //     }  
+
+
+
+//       const scrollHandler = () => {    
+//     const currentScrollPosition = inputRef.current.getBoundingClientRect();  
+    
+//     // console.log(currentScrollPosition.top);
+
+//     if(180 > currentScrollPosition.top ){
+
+//     }
+// };
+
+
+//     if(currentScrollPosition.top < 190)
+//     {           
+//    if(handle===89){
+//             clearTimeout();
+//          }
+//          else{
+//              setTimeout(()=>{
+//              handleScore(handle + 1);
+//              },40)
+//     }
+//     }
